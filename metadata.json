@@ -1,0 +1,6 @@
+{
+  "name": "SkyChat",
+  "description": "An elegant, highly polished WhatsApp clone featuring smart AI-powered companion chats, interactive audio note recorders, full voice & video call simulations, and custom status stories.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
